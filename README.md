@@ -8,7 +8,11 @@
 ![](https://github-readme-stats.shion.dev/api?username=developerdaya47&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=developerdaya47&theme=dark&hide_border=true)<br/>
 
+<!-- Snake Game View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
